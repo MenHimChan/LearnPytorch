@@ -1,4 +1,4 @@
-# LearnPytorch Repo
+# LearnPytorch
 ---
 This Repo is set to store my jupyter notebook file during learning the pytorch.
 
@@ -14,4 +14,13 @@ This Repo is set to store my jupyter notebook file during learning the pytorch.
 ### 2. Origin Course
 [PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】](https://www.bilibili.com/video/BV1hE411t7RN/)
 
+### 3. Jupyter Lab
+Install with :   
+```bash
+pip install jupyterlab
+```   
+and run with:   
+```bash
+jupyter lab
+```
 
